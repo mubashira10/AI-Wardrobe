@@ -1,5 +1,6 @@
 # AI-Wardrobe
-# AI Wardrobe
+## **Live demo**
+[view AI Wardrobe](https://aiwardrobe.mgx.world)
 
 AI Wardrobe is a digital wardrobe management and styling platform designed to help users organize their clothes, plan outfits, and make sustainable fashion choices with the help of AI.
 
